@@ -23,7 +23,6 @@ This Python script automatically clicks the **Accept** button when the **"Match 
    3- Go to the directory where the file is located. (Recommended: the file should be on the desktop.)  
    4- Make sure you are in the correct folder. (If you don't know how to navigate to the folder, try typing "cd desktop" and then "cd lol-auto-accept-main".)  
    5- Type "python click_match_found.py".  
-   6- You may see an "error" message until a match is found, **DON'T WORRY**. TRUST THE PROCESS.
    
 ## ⚠️ **NOTE** 
 The image in the PNG file may not work on every computer due to differences in resolution, screen settings, and color configurations EVEN DIGGERENT LANGUAGE. You can replace the PNG file with a "Match Found" image from your own screen to ensure compatibility.
@@ -71,8 +70,7 @@ Bu Python scripti, **"Karşılaşma Bulundu"** ekranı göründüğünde otomati
    2- CMD'yi açın.  
    3- Dosyanın bulunduğu dizine gidin. (Tavsiye: dosya masaüstünde olmalı.)  
    4- Dosyanın içinde olduğunuzdan emin olun. (Dosyaya nasıl gireceğinizi bilmiyorsanız, "cd masaüstü" yazın ve sonra "cd lol-auto-accept-main" yazın.)  
-   5- "python click_match_found.py" yazın.  
-   6- Maç bulunana kadar "error" mesajı alabilirsiniz, **ENDİŞELENMEYİN**. SÜRECE GÜVENİN.  
+   5- "python click_match_found.py" yazın.    
 
 ## ⚠️ **NOT**  
 PNG dosyasındaki resim, çözünürlük, ekran ayarları ve renk yapılandırmalarındaki farklar nedeniyle HER BİLGİSAYARDA çalışmayabilir, HATTA FARKLI DİLLERDE. Uyumluluğu sağlamak için PNG dosyasını kendi ekranınızdaki "Karşılaşma Bulundu" görseliyle değiştirebilirsiniz.
