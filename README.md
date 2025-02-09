@@ -17,7 +17,10 @@ This Python script automatically clicks the **Accept** button when the **"Match 
 2. **Install required libraries**:  
    1-Open terminal
       Write down "pip install pyautogui" ( if it doesn't work, write down "python get-pip.py" first.)
-3. **Run the script**:  
+     "pip install pillow"
+      "pip install pyscreeze"
+      "pip install opencv-python"
+4. **Run the script**:  
    1- Open League of Legends.  
    2- Open CMD.  
    3- Go to the directory where the file is located. (Recommended: the file should be on the desktop.)  
@@ -62,10 +65,15 @@ Bu Python scripti, **"Karşılaşma Bulundu"** ekranı göründüğünde otomati
 
 2. **Gerekli kütüphaneleri yükleyin**:  
    1- Terminali açın.  
-   "pip install pyautogui" yazın (çalışmazsa, önce "python get-pip.py" yazın).  
+   "pip install pyautogui" yazın (çalışmazsa, önce "python get-pip.py" yazın).
+   "pip install pillow"
+   "pip install pyscreeze"
+   "pip install opencv-python"
+
+ 
 
 
-3. **Scripti çalıştırın**:  
+4. **Scripti çalıştırın**:  
    1- League of Legends'ı açın.  
    2- CMD'yi açın.  
    3- Dosyanın bulunduğu dizine gidin. (Tavsiye: dosya masaüstünde olmalı.)  
