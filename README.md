@@ -17,14 +17,14 @@ This Python script automatically clicks the **Accept** button when the **"Match 
 2. **Install required libraries**:  
    1-Open terminal
       Write down "pip install pyautogui" ( if it doesn't work, write down "python get-pip.py" first.)
-
 3. **Run the script**:  
-   1- Open the League of Legends
-   2- Open the CMD
-   3- You should go to the directory where the file is in cmd. (recommended: the file should be on the desktop)
-   4- Be sure that you are in the file. ( if you dont know how to get into the file, try this: "cd desktop" and then "cd match_clicker")
-   5-Write down "python click_match_found.py"
-   6-It says "error" until match found, DON'T WORRY. TRUST THE PROCESS.
+   1- Open League of Legends.  
+   2- Open CMD.  
+   3- Go to the directory where the file is located. (Recommended: the file should be on the desktop.)  
+   4- Make sure you are in the correct folder. (If you don't know how to navigate to the folder, try typing "cd desktop" and then "cd match_clicker".)  
+   5- Type "python click_match_found.py".  
+   6- You may see an "error" message until a match is found, **DON'T WORRY**. TRUST THE PROCESS.
+   
 ## ⚠️ **NOTE** 
 The image in the PNG file may not work on every computer due to differences in resolution, screen settings, and color configurations EVEN DIGGERENT LANGUAGE. You can replace the PNG file with a "Match Found" image from your own screen to ensure compatibility.
  
@@ -66,7 +66,7 @@ Bu Python scripti, **"Karşılaşma Bulundu"** ekranı göründüğünde otomati
    "pip install pyautogui" yazın (çalışmazsa, önce "python get-pip.py" yazın).  
 
 
-3. **Betiği çalıştırın**:  
+3. **Scripti çalıştırın**:  
    1- League of Legends'ı açın.  
    2- CMD'yi açın.  
    3- Dosyanın bulunduğu dizine gidin. (Tavsiye: dosya masaüstünde olmalı.)  
