@@ -12,6 +12,6 @@ def click_match_found():
             else:
                 print("Button not found, trying again...")       
         except Exception as e:
-            print("Error:", e)        
+            print(The screen is being scanned.., e)        
         time.sleep(3)
 click_match_found()
