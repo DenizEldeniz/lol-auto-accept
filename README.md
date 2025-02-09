@@ -21,7 +21,7 @@ This Python script automatically clicks the **Accept** button when the **"Match 
    1- Open League of Legends.  
    2- Open CMD.  
    3- Go to the directory where the file is located. (Recommended: the file should be on the desktop.)  
-   4- Make sure you are in the correct folder. (If you don't know how to navigate to the folder, try typing "cd desktop" and then "cd match_clicker".)  
+   4- Make sure you are in the correct folder. (If you don't know how to navigate to the folder, try typing "cd desktop" and then "cd lol-auto-accept-main".)  
    5- Type "python click_match_found.py".  
    6- You may see an "error" message until a match is found, **DON'T WORRY**. TRUST THE PROCESS.
    
