@@ -70,7 +70,7 @@ Bu Python scripti, **"Karşılaşma Bulundu"** ekranı göründüğünde otomati
    1- League of Legends'ı açın.  
    2- CMD'yi açın.  
    3- Dosyanın bulunduğu dizine gidin. (Tavsiye: dosya masaüstünde olmalı.)  
-   4- Dosyanın içinde olduğunuzdan emin olun. (Dosyaya nasıl gireceğinizi bilmiyorsanız, "cd masaüstü" yazın ve sonra "cd match_clicker" yazın.)  
+   4- Dosyanın içinde olduğunuzdan emin olun. (Dosyaya nasıl gireceğinizi bilmiyorsanız, "cd masaüstü" yazın ve sonra "cd lol-auto-accept-main" yazın.)  
    5- "python click_match_found.py" yazın.  
    6- Maç bulunana kadar "error" mesajı alabilirsiniz, **ENDİŞELENMEYİN**. SÜRECE GÜVENİN.  
 
