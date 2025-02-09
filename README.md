@@ -40,7 +40,7 @@ Stay tuned for updates! 🚨
 ---
 # 👾 **Enjoy your matches and never miss a game again!**
 
-
+---------
 
 # 🎮 **LoL Otomatik Kabul** 🚀  
 (PNG dosyasını Türkçe hariç farklı dillerde değiştirin)
